@@ -37,3 +37,4 @@ https://github.com/LYISTR2/monitor-theme-raster
 https://github.com/LYISTR2/monitor-theme-solari
 https://github.com/LYISTR2/monitor-theme-dial
 https://github.com/LYISTR2/monitor-theme-phosphor
+https://github.com/ayingQAQ/monitor-theme-omarchy
